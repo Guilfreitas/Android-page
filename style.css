@@ -55,6 +55,7 @@ header p {
     padding-left: 10px;
     padding-right: 10px;
     font-family: var(--fonte-padrao);
+    padding-bottom: 50px;
 }
 
 nav {
